@@ -9,9 +9,25 @@
     composer require spipu/html2pdf
     ```
 - [Laravel Splade](https://github.com/protonemedia/laravel-splade)
-- [Filemaent](https://github.com/filamentphp/filament)
+  - The magic of Inertia.js with the simplicity of Blade.
+  - ```bash
+    composer require protonemedia/laravel-splade
+    ```
+- [Filament](https://github.com/filamentphp/filament)
+  - Admin panel, form builder and table builder for Laravel. Built with the TALL stack. Designed for humans.
+  - ```bash
+    composer require filament/filament
+    ```
 - [Laravel Wallet](https://github.com/bavix/laravel-wallet)
+  - Easy work with virtual wallet.
+  - ```bash
+    composer require bavix/laravel-wallet
+    ```
 - [Sidecar Browsershot](https://github.com/stefanzweifel/sidecar-browsershot)
+  - This package allows you to run Browsershot on AWS Lambda through Sidecar. You won't need to install Node, Puppeteer or Google Chrome on your server. The heavy lifting of booting a headless Google Chrome instance is happening on AWS Lambda.
+  - ```bash
+    composer require wnx/sidecar-browsershot
+    ```
 - [MPdf](https://github.com/mpdf/mpdf)
 - [Ibis](https://github.com/themsaid/ibis)
 - [Laravel Mongodb](https://github.com/jenssegers/laravel-mongodb)
